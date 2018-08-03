@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/cuidezhu/cnode-react#readme",
   "dependencies": {
+    "react": "^16.4.2",
     "webpack": "^3.9.1"
   }
 }
