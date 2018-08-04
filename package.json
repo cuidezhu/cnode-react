@@ -23,6 +23,11 @@
   "homepage": "https://github.com/cuidezhu/cnode-react#readme",
   "dependencies": {
     "react": "^16.4.2",
+    "react-dom": "^16.4.2",
     "webpack": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5"
   }
 }
